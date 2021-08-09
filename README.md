@@ -11,5 +11,5 @@
 
 - Criação de variáveis, funções, for e eventos no JS.
 
-obs * Ainda não terminei o media query para a responsividade completa. Porém ja é possível observar que somente com flex box o site já está quase lá! :)
+obs * Ainda não terminei o media query para a responsividade completa.
 
