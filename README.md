@@ -13,7 +13,7 @@
 
 obs * Ainda não terminei o media query para a responsividade completa.
 
-![Imagem em gif da apresentação em tela da Réplica do site de curso.](https://github.com/jana-dev/Replica-site-treino/blob/master/img/gifsite.gif)
+![Imagem em gif da apresentação em tela da Réplica do site de curso.](https://github.com/jana-dev/Replica-site-treino/blob/main/img/gifsite.gif)
 
 
 
